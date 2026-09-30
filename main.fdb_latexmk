@@ -1,0 +1,17 @@
+# Fdb version 4
+["pdflatex"] 1790748967.15083 "/Users/aiaco/Desktop/SLT_doc/main.tex" "main.pdf" "main" 1790748967.38727 1
+  "/Users/aiaco/Desktop/SLT_doc/main.tex" 1790748966.00933 184 353d9751788e6e1286371dd10c4cdfb7 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls" 1748806692 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/base/size10.clo" 1748806692 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1761248321 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
+  "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1779889924 3636769 8d09f61375b45703d2a2f6baf6c062b6 ""
+  "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
+  "main.aux" 1790748967.38019 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "main.tex" 1790748966.00933 184 353d9751788e6e1286371dd10c4cdfb7 ""
+  "toc" 0 -1 0 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
