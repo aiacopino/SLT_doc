@@ -1,0 +1,42 @@
+# Core LaTeX build and auxiliary files
+*.aux
+*.bcf
+*.dvi
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+
+# Bibliography (BibTeX / Biber)
+*.bbl
+*.blg
+
+# Glossaries, indices, and nomenclature
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.ist
+*.nlo
+*.nls
+*.xdy
+
+# Generated graphics and caching
+*.mw
+-tikzDictionary
+
+# Editor and OS artifacts
+*.swp
+*.bak
+.DS_Store
+.vscode/
